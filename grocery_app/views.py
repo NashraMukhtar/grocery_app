@@ -192,4 +192,3 @@ def move_to_grocery_list(request, pk):
 
 
 
-
